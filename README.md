@@ -59,12 +59,4 @@ Customer churn prediction is a critical task in understanding customer behavior 
 
 ---
 
-## Contact
-
-For questions or feedback, please feel free to reach out:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-
----
-
 Thank you for visiting this repository. If you find it useful, please give it a ⭐!
