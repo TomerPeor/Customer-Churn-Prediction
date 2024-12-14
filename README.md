@@ -37,26 +37,6 @@ Customer churn prediction is a critical task in understanding customer behavior 
 
 ---
 
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/customer-churn-prediction.git
-   cd customer-churn-prediction
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open and run the Jupyter Notebook:
-   ```bash
-   jupyter notebook customer_churn_ML.ipynb
-   ```
-
----
-
 ## Results
 
 - **Best Model**: Random Forest Classifier achieved the highest F1-score on the test set.
