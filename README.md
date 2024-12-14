@@ -1,4 +1,4 @@
-# Customer Churn Prediction
+![image](https://github.com/user-attachments/assets/48d88648-1aa6-4f63-a334-76294f3ad960)# Customer Churn Prediction
 
 This repository contains a machine learning project focused on predicting customer churn for Accessibe, utilizing Python-based tools and libraries. The project demonstrates end-to-end handling of a churn dataset, including preprocessing, feature engineering, and model evaluation.
 
@@ -43,6 +43,9 @@ Customer churn prediction is a critical task in understanding customer behavior 
 - **Key Insights**:
   - Subscription renewal behavior was a major predictor of churn.
   - Models benefited significantly from careful preprocessing and feature selection.
+ 
+    <img width="344" alt="image" src="https://github.com/user-attachments/assets/4cbcf3e8-ca0a-484e-aa7d-9ba954986b2b" />
+
 
 ---
 
