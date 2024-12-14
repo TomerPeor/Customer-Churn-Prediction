@@ -18,15 +18,25 @@ Customer churn prediction is a critical task in understanding customer behavior 
 - Removal of leakage-inducing features such as `Churn Date` and other unique identifiers.
 - Handling missing data and outliers effectively.
 
-### 2. **Feature Engineering**
+  ### 2. **Exploratory Data Analysis (EDA)**
+- **Numerical Features**:
+  - Features like `Average Monthly Traffic` and `Domain Page Count` exhibited skewed distributions, addressed using scaling techniques.
+  - Outliers were identified and visualized using boxplots for features such as `Total ARR` and `FN ARR`.
+- **Categorical Features**:
+  - The top categories for `Website Category New` showed significant concentration in a few labels, as visualized through bar plots.
+  - Certain features, like `Plan` and `CMS-Builder`, revealed patterns linked to churn behavior.
+- **Correlation Heatmap**:
+  - A strong correlation was observed between `FN ARR` and `Total ARR`, influencing feature selection decisions.
+
+### 3. **Feature Engineering**
 - Dropped irrelevant columns (e.g., `Account Name`, `Opportunity Name`) to improve model performance.
 - Explored correlations and eliminated highly correlated features to avoid multicollinearity.
 
-### 3. **Machine Learning Models**
+### 4. **Machine Learning Models**
 - Experimented with multiple algorithms including Random Forest, XGBoost, and Logistic Regression.
 - Fine-tuned hyperparameters using techniques like GridSearchCV.
 
-### 4. **Evaluation Metrics**
+### 5. **Evaluation Metrics**
 - Used metrics such as Accuracy, Precision, Recall, and F1-score to measure model performance.
 
 ---
