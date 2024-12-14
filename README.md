@@ -44,8 +44,8 @@ Customer churn prediction is a critical task in understanding customer behavior 
 ## Technologies Used
 
 - **Programming Language**: Python
-- **Libraries**: pandas, numpy, matplotlib, scikit-learn, XGBoost
-- **Tools**: Jupyter Notebook, Google Colab
+- **Libraries**: pandas, numpy, matplotlib, scikit-learn, XGBoost, seaborn
+- **Tools**: Jupyter Notebook, Google Colab, MongoDB
 
 ---
 
